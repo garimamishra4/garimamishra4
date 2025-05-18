@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Mishra</h1>
 <h3 align="center">Web Devloper| UI/UX designer | AI Enthusiast | Prompt Engineer | QuibitX HackwithIndia Finalist </h3>
 
-- 🌱 I’m currently learning **webdevlopment**
+- 🌱 I’m currently learning **webdevlopment & DSA**
 
 - 📫 How to reach me **garimamishra4official@gmail.com**
 
