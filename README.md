@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Garima Mishra</h1>
-<h3 align="center">Web Devloper| UI/UX designer | AI Enthusiast</h3>
+<h3 align="center">Web Devloper| UI/UX designer | AI Enthusiast | Prompt Engineer | QuibitX HackwithIndia Finalist </h3>
 
 - 🌱 I’m currently learning **webdevlopment**
 
-- 📫 How to reach me **garima26062005@gmail.com**
+- 📫 How to reach me **garimamishra4official@gmail.com**
 
 - 📄 Resume [https://www.canva.com/design/DAGXPOwSlCo/r78x39Zc2m4OjW82VIiaRw/edit](https://www.canva.com/design/DAGXPOwSlCo/r78x39Zc2m4OjW82VIiaRw/edit)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
