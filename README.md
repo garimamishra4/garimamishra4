@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **garimamishra4official@gmail.com**
 
-- 📄 Resume [https://www.canva.com/design/DAGXPOwSlCo/r78x39Zc2m4OjW82VIiaRw/edit](https://www.canva.com/design/DAGXPOwSlCo/r78x39Zc2m4OjW82VIiaRw/edit)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
