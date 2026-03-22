@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garima Mishra</h1>
-<h3 align="center">Web Devloper| UI/UX designer | AI Enthusiast | Prompt Engineer | QuibitX HackwithIndia Finalist </h3>
+<h3 align="center">Web Devloper|| UI/UX designer || AI Enthusiast || Prompt Engineer || QuibitX HackwithIndia Finalist|| Prarambh2025(IBM) Hackathon Winner||
+AdobeIndiaHackathonRound2 Qualifier|| YuktiInnovationRegionalQualifier || IIT Guwahati Summer Analytics 2024 Top 25 percentile </h3>
 
 - 🌱 I’m currently learning **webdevlopment & DSA**
 
