@@ -3,16 +3,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=190&section=header&text=Hi%20there!%20I'm%20Garima%20Mishra&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/garimamishra4">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:garimamishra4official@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/garimamishra4">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://garimamishrap.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -28,9 +28,9 @@
 
 Hello! I'm **Garima Mishra**, a Computer Science and Engineering student at **GL Bajaj Group of Institutions, Mathura**.
 
-I enjoy building responsive web experiences and exploring how AI can solve practical problems. My experience spans software development, frontend engineering, UI/UX design, and AI-powered applications.
+I enjoy building responsive web experiences and exploring how AI can solve real-world problems. My experience spans software development, frontend engineering, UI/UX design, and AI-powered applications.
 
-- 🔭 Currently exploring Software Development, Generative AI and Agentic AI.
+- 🔭 Exploring Software Development, Generative AI and Agentic AI.
 - 💼 Software Development Executive Intern at NextGen Global Services.
 - 🌐 Previously worked as Web Developer & UI/UX Design Intern at VisiARise.
 - 🤖 Built Samadhan AI, an AI-powered citizen grievance redressal platform using IBM watsonx.
@@ -102,6 +102,10 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 
 <h3>🤖 Samadhan AI</h3>
 
+<a href="https://samadhan-ai.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-orange?style=for-the-badge" />
+</a>
+
 **AI-powered Citizen Grievance Redressal System**
 
 - Classifies citizen complaints by category, sentiment and priority.
@@ -115,6 +119,27 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 
 <td width="50%" valign="top">
 
+<h3>💚 ArogyaPulse</h3>
+
+<a href="https://lnkd.in/p/gACRGGGy">
+<img src="https://img.shields.io/badge/View_Project-Explore-orange?style=for-the-badge" />
+</a>
+
+**AI-powered Health & Wellness Concept**
+
+- Explores personalized health and wellness monitoring.
+- Focuses on food and activity inputs.
+- Envisions camera-assisted stress monitoring and health insights.
+- Designed to make health information more accessible.
+
+**Focus:** AI, HealthTech, Wellness
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <h3>🥽 ARDYA</h3>
 
 **Text-to-3D-to-AR Experience**
@@ -126,9 +151,7 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 **Focus:** AR, 3D Experiences, Innovation
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <h3>🎬 Netflix Clone</h3>
@@ -142,22 +165,20 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 **Focus:** React, Tailwind CSS, UI Development
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Web Development Projects</h3>
-
-**Frontend & Interactive Applications**
-
-- Developed responsive web interfaces.
-- Practised reusable components and modern UI patterns.
-- Explored animations and interactive experiences.
-
-**Focus:** JavaScript, React, HTML, CSS
-
-</td>
 </tr>
 </table>
+
+### 🌐 Personal Portfolio
+
+Explore my work, projects and professional journey.
+
+<div align="center">
+
+<a href="https://garimamishrap.netlify.app/">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -165,7 +186,7 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 
 - 🥇 **1st Place – IBM Prarambh Hackathon 2025**
 - 🥇 **1st Place – CT Solution Hackathon**
-- ⭐ Finalist in 7 national-level hackathons, including events associated with Adobe India and Quibitx.
+- ⭐ Finalist in 7 grand hackathons, including events associated with Adobe India and Quibitx.
 - 📊 **Summer Analytics 2024 – IIT Guwahati**, Top 25 Percentile.
 
 ---
@@ -181,28 +202,23 @@ I enjoy building responsive web experiences and exploring how AI can solve pract
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=garimamishra4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimamishra4&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, learning from new perspectives, and collaborating on impactful projects.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="https://github.com/garimamishra4">GitHub</a> •
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://www.linkedin.com/in/garimamishra4">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:garimamishra4official@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://garimamishrap.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome" />
+</a>
 
 <br/><br/>
 
